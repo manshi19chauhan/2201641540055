@@ -1,0 +1,67 @@
+{
+  "abcd1": {
+    "url": "https://very-very-very-long-and-descriptive-subdomain-that-goes-on-and-on.somedomain.com/additional/directory/levels/for/more/length/really-log-sub-domain/a-really-log-page",
+    "createdAt": "2025-09-08T08:45:52.410Z",
+    "expiresAt": "2025-09-08T09:15:52.410Z",
+    "clicks": 0,
+    "events": []
+  },
+  "bTIenO": {
+    "url": "https://codeforces.com/profile/manshi_16",
+    "createdAt": "2025-09-08T09:30:42.433Z",
+    "expiresAt": "2025-09-08T10:00:42.433Z",
+    "clicks": 0,
+    "events": []
+  },
+  "XWpeui": {
+    "url": "https://codeforces.com/profile/manshi_16",
+    "createdAt": "2025-09-08T09:31:14.195Z",
+    "expiresAt": "2025-09-08T10:01:14.195Z",
+    "clicks": 0,
+    "events": []
+  },
+  "_qu0wt": {
+    "url": "https://codeforces.com/profile/manshi_16",
+    "createdAt": "2025-09-08T09:39:57.849Z",
+    "expiresAt": "2025-09-08T10:09:57.849Z",
+    "clicks": 1,
+    "events": [
+      {
+        "ts": "2025-09-08T09:40:08.803Z",
+        "referrer": "direct",
+        "ip": "::1",
+        "location": {
+          "label": "local"
+        }
+      }
+    ]
+  },
+  "_jHsBB": {
+    "url": "https://roadmap.sh/",
+    "createdAt": "2025-09-08T09:44:56.157Z",
+    "expiresAt": "2025-09-08T10:14:56.157Z",
+    "clicks": 0,
+    "events": []
+  },
+  "mBSfTr": {
+    "url": "https://roadmap.sh/",
+    "createdAt": "2025-09-08T09:47:29.217Z",
+    "expiresAt": "2025-09-08T10:17:29.217Z",
+    "clicks": 0,
+    "events": []
+  },
+  "cTe-We": {
+    "url": "https://roadmap.sh/",
+    "createdAt": "2025-09-08T09:49:09.616Z",
+    "expiresAt": "2025-09-08T10:19:09.616Z",
+    "clicks": 0,
+    "events": []
+  },
+  "8zzibx": {
+    "url": "https://roadmap.sh/",
+    "createdAt": "2025-09-08T09:49:15.809Z",
+    "expiresAt": "2025-09-08T10:19:15.809Z",
+    "clicks": 0,
+    "events": []
+  }
+}
